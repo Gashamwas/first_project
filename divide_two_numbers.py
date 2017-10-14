@@ -9,4 +9,4 @@ def divide_two_numbers (x,y):
 if x >=2
     return x/y
 else:
-    print ('Please change the value of X')
+    print ('Please change the value of X: ')
